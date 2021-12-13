@@ -1,6 +1,6 @@
 <template>
     <div>
-    Dettaglio
+      Prova
     </div>
 </template>
 <script>

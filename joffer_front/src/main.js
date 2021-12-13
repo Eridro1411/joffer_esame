@@ -23,7 +23,7 @@ const routes=[
     redirect:"/home"
   },
   {
-    path:"/detail",
+    path:"/detail/:id",
     name: "detail",
     component: Detail
   },
