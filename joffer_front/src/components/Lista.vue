@@ -1,16 +1,12 @@
 <template>
     <div>
-
+    lista
     </div>
 </template>
 <script>
 
 export default {
-    name: Lista,
-    data() {
-        return {
-
-        }
-    }
+  components: {
+  }
 }
 </script>

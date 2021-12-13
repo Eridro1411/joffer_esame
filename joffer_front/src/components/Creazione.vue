@@ -1,16 +1,12 @@
 <template>
     <div>
-
+    Creazione
     </div>
 </template>
 <script>
 
 export default {
-    name: Creazione,
-    data() {
-        return {
-
-        }
-    }
+  components: {
+  }
 }
 </script>
