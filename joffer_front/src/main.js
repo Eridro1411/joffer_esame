@@ -1,19 +1,21 @@
 import Vue from 'vue'
 import App from './App.vue'
 
+import "./tailwind.css"
+
 import VueRouter from "vue-router"
 
-Vue.user(VueRouter)
+Vue.use(VueRouter)
+
 const routes=[
-  {
-    path:,
-    component:,
-  }
+  
 ]
 
 const router = new VueRouter({
   mode: history,
-  routes)
+  routes})
+
+
 Vue.config.productionTip = false
 
 new Vue({
